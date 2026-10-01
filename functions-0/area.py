@@ -9,3 +9,6 @@ def main():
       total = house+yard
       print(str(total) + " total square feet")
 main()
+
+
+
